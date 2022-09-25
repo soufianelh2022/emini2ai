@@ -2,10 +2,10 @@
 	"ADS": 
 	  {
   
-		"banner_type":"yandex",
-		"inter_type":"yandex",
+		"banner_type":"admob",
+		"inter_type":"admob",
 		"rewarde_type":"yandex",
-		"native_type":"yandex",
+		"native_type":"admob",
 		
   
   
