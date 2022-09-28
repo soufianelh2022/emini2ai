@@ -2,21 +2,21 @@
 	"ADS": 
 	  {
   
-		"banner_type":"admob",
-		"inter_type":"admob",
-		"rewarde_type":"yandex",
-		"native_type":"admob",
+		"banner_type":"yandex",
+		"inter_type":"unity",
+		"rewarde_type":"unity",
+		"native_type":"yandex",
 		
   
   
-		  "unity_id": "4292105",
+		  "unity_id": "4873217",
   
 		
 	
 	  
-		"banner_yandex":"ca-app-pub56099942",
+		"banner_yandex":"R-M-1695214-17",
 		"interstitial_yandex":"ca-app-pub-567",
-		"native_yandex":"ca-app-pub56099942",
+		"native_yandex":"R-M-1695214-6",
 		"rewarde_yandex":"ca-app-pub-567",
 		
 		"banner_admob":"ca-app-pub-3940256099942544/6300978111",
