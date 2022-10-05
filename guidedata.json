@@ -5,7 +5,7 @@
 		"banner_type":"yandex",
 		"inter_type":"yandex",
 		"rewarde_type":"yandex",
-		"native_type":"yandex",
+		"native_type":"admob",
 		
   
   
@@ -21,7 +21,7 @@
 		
 		"banner_admob":"ca-app-pub-3940256099942544/6300978111",
 		"interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
-		"native_admob":"ca-app-pub-3940256099942544/2247696110",
+		"native_admob":"ca-app-pub-9611218238680058/4699298618",
 		"rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
   
 		"interstitial_admob1":"ca-app-pub-567",
